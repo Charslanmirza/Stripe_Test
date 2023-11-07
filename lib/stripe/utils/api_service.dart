@@ -12,7 +12,7 @@ const baseUrl = 'https://api.stripe.com/v1';
 final Map<String, String> requestHeaders = {
   'Content-Type': 'application/x-www-form-urlencoded',
   'Authorization':
-      'Bearer sk_test_51LJESJINsLzJqHMhakVQeM3P1FxvXaLgHh9opAZFmRugJNTF9Zg2QzXKm8xmJNxk2eeQdjzJD59BPtMgmlcdSIud00YRzODRmu',
+      'Bearer YOUR API KEY',
 };
 
 Future<Map<String, dynamic>?> apiService({

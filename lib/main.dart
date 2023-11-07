@@ -5,7 +5,7 @@ import 'package:stripe_test/stripe/stripe_app.dart';
 void main() async{
   WidgetsFlutterBinding.ensureInitialized();
 
-  Stripe.publishableKey = 'pk_test_51LJESJINsLzJqHMhqtE67EcJtmY2sLrg8EQFj9QfU6Qfvn8rBcr1ZoUKCv16eaW0mASMnim60zajvWmHQ15SzVif00VbdD1Ym6';
+  Stripe.publishableKey = 'YOUR API KEY';
   await Stripe.instance.applySettings();
 
   runApp(const MyApp());
