@@ -3,7 +3,8 @@
 A new Flutter project.
 
 
-![Screenshot_20231107_123858](https://github.com/Charslanmirza/Stripe_Test/assets/92212693/61a5b7b2-adc6-4c10-8633-1a970fe59f22)
+![Screenshot_20231107_123858](https://github.com/Charslanmirza/Stripe_Test/assets/92212693/61a5b7b2-adc6-4c10-8633-1a970fe59f22)![Screenshot_20231107_124357](https://github.com/Charslanmirza/Stripe_Test/assets/92212693/d54e0dea-b1a7-4a63-8282-7e02205dac0a)
+
 
 
 ## Getting Started
