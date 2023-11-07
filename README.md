@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+
+![Screenshot_20231107_123858](https://github.com/Charslanmirza/Stripe_Test/assets/92212693/61a5b7b2-adc6-4c10-8633-1a970fe59f22)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
